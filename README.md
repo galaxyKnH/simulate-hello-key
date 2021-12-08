@@ -68,3 +68,4 @@ if a == 2:
 
  just put time.sleep(0.5) beetwen the h e l l o massages
  if you cant see the code or the code didnt work 
+ but vertical
