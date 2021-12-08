@@ -54,5 +54,17 @@ if a == 2:
     time.sleep(0.5)
     keyboard.press("o")
     
-    just copy the code from the main py file and put time.sleep(0.5)
+     = 2
+
+if a == 2:    
+    keyboard.press("h")
+    time.sleep(0.5)
+    keyboard.press("e")
+    time.sleep(0.5)
+    keyboard.press("l")
+   time.sleep(0.5)
+    keyboard.press("l")
+    time.sleep(0.5)
+    keyboard.press("o")
+ just put time.sleep(0.5) beetwen the h e l l o massages
  if you cant see the code or the code didnt work 
