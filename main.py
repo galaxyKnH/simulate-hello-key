@@ -19,9 +19,5 @@ if a == 2:
 #with out the two top dots for more help read help read me
 
 
-if a == 2:
-keyboard.press("h") time.sleep(0.5) keyboard.press("e") time.sleep(0.5) keyboard.press("l") time.sleep(0.5) keyboard.press("l") time.sleep(0.5) keyboard.press("o")
-    
-
 
 
